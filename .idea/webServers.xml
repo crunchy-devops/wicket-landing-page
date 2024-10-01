@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9446176-6aca-4c39-b701-48bf29d4569b" name="jenkins-1">
+        <fileTransfer accessType="SFTP" host="192.168.1.127" port="22" sshConfigId="5883997c-3227-4211-957b-26f7af478d58" sshConfig="jenkins-1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

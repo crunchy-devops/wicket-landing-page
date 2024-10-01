@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.1.127" id="5883997c-3227-4211-957b-26f7af478d58" port="22" customName="jenkins-1" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="jenkins-1" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
